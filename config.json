@@ -1,0 +1,13 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "admin_ids": [123456789],
+  "group_id": -1001234567890,
+  "upi_id": "yourupi@upi",
+  "quickchart_api": "https://quickchart.io/qr",
+  "5sim_api_key": "YOUR_5SIM_API_KEY",
+  "sms_activate_key": "YOUR_SMS_ACTIVATE_KEY",
+  "default_country": "us",
+  "default_service": "whatsapp",
+  "price_per_number": 0.10,
+  "currency": "USD"
+}
